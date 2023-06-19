@@ -31,13 +31,14 @@ Languages I use:
 ### 💡 Goals for 2023
 
   * My main goal for 2023 is to get hired as a software developer at a decent sized company.
-  * My sub goal is to become fluent in 3 more programming languages as well as make a decent portfolio site.
+  * My sub goal is to become fluent in 3 more programming languages as well as make a better portfolio site.
 
 ### 🌴 Fun facts
 
   * I love FPS games, specifically the tatical fps kind (Tarkov, Ground Branch, and Ready or Not)
   * The gym is the place where I belong!
   * Going out with an amazing woman who cant help but make me the best version of myself!
+  * I set my own goals and challenges to try and push myself further, I even went as far as graduating highschool early!
 
 ### ☕ Get in touch
 
