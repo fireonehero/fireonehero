@@ -22,8 +22,7 @@ Languages I use:
 
 ### 💻 Projects
 
-  * PythonAA - A Python project (Add a brief description here)
-  * Python-P2P - A Python project (Add a brief description here)
+  * Python-P2P - A robust and user-friendly P2P application built with Python, facilitating efficient creation of networks and peer-to-peer messaging.
   * ExpenseTracker - A basic expense tracker made in Python using the PyQt5 library. 
   * AddressBook - A comprehensive Python-based application designed for efficient contact management and organization. Ready for use with a full suite of features designed to streamline your address book operations. 
   * WordFrequency - A Python tool that calculates word frequencies in text files. It tokenizes text, removes stopwords, and visualizes the most frequent words as a bar graph and word cloud.
@@ -31,7 +30,8 @@ Languages I use:
 
 ### 💡 Goals for 2023
 
-  * (Add your goals here)
+  * My main goal for 2023 is to get hired as a software developer at a decent sized company.
+  * My sub goal is to become fluent in 3 more programming languages as well as make a decent portfolio site.
 
 ### 🌴 Fun facts
 
