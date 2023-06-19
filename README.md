@@ -48,4 +48,4 @@ Some of my favorite open source projects:
 
   * (Add special thanks here)
 
-![GitHub stats]
+![Trent's GitHub stats](https://github-readme-stats.vercel.app/api?username=fireonehero)
