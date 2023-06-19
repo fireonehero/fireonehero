@@ -12,7 +12,8 @@ I'm a software engineer proficient in Java and Python, but also well-versed in H
 
 Languages I use:   
 
-![Language](https://img.shields.io/badge/Language-Java-brightgreen) ![Language] (https://img.shields.io/badge/Language-Python-blue) ![HTML] ![CSS] ![JavaScript]
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 Some of my favorite open source projects:   
 (Add your favorite open-source projects here)
