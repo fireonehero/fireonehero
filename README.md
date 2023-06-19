@@ -45,7 +45,8 @@ Languages I use:
 
 #### Special Thanks
 
-  * To my friend Cake who helped me get started on this journey
-  * And to my friend WBM who kept me going!
+  * To my friend Cake who helped me get started on this adventure
+  * Also to my friend WBM who kept me going
+  * And lastly, my amazing girlfriend who supported me through this whole journey!
 
 ![Trent's GitHub stats](https://github-readme-stats.vercel.app/api?username=fireonehero)
