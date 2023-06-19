@@ -27,7 +27,7 @@ Languages I use:
   * ExpenseTracker - A basic expense tracker made in Python using the PyQt5 library. 
   * AddressBook - A Python project (Add a brief description here)
   * WordFrequency - A Python tool that calculates word frequencies in text files. It tokenizes text, removes stopwords, and visualizes the most frequent words as a bar graph and word cloud.
-  * TowerOfTrials - A Python project (Add a brief description here)
+  * TowerOfTrials - Tower of Trials is a text-based RPG game written in Python, where the player's character must battle a series of enemies and bosses in order to progress through the Tower of Trials. The game emphasizes strategic decision-making, with each player action influencing the course of the battle.
 
 ### 💡 Goals for 2023
 
