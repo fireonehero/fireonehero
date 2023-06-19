@@ -14,13 +14,11 @@ Languages I use:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-
-Some of my favorite open source projects:   
-(Add your favorite open-source projects here)
-
 ### ✔️ I'm currently learning
 
-  * (Add technologies or areas you are currently learning here)
+  * Frontend Web Development
+  * Backend Web Development
+  * AI in Python
 
 ### 💻 Projects
 
@@ -37,15 +35,17 @@ Some of my favorite open source projects:
 
 ### 🌴 Fun facts
 
-  * (Add fun facts about yourself here)
+  * I love FPS games, specifically the tatical fps kind (Tarkov, Ground Branch, and Ready or Not)
+  * The gym is the place where I belong!
+  * Going out with an amazing woman who cant help but make me the best version of myself!
 
 ### ☕ Get in touch
 
-  * Email: (Your email here)
-  * Website: (Your website here, if you have one)
+  * Email: fireonehero@gmail.com 
 
 #### Special Thanks
 
-  * (Add special thanks here)
+  * To my friend Cake who helped me get started on this journey
+  * And to my friend WBM who kept me going!
 
 ![Trent's GitHub stats](https://github-readme-stats.vercel.app/api?username=fireonehero)
