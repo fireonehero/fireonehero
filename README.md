@@ -1,6 +1,6 @@
 # Welcome to my GitHub!  
 
-![Profile Picture]
+![![image](https://github.com/fireonehero/fireonehero/assets/37916486/0c25f310-ed0a-4155-99ff-ceb10089d7c1)]
 
 ### 👋 Hello, I'm Trent! 
 
