@@ -19,6 +19,7 @@ Languages I use:
   * Frontend Web Development
   * Backend Web Development
   * AI in Python
+  * GO Lang
 
 ### 💻 Projects
 
