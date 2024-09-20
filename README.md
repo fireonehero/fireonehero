@@ -19,6 +19,7 @@ Languages I use:
   * C Development
   * ImGui
   * OpenGL
+  * Django
 
 ### 💻 Projects
 
