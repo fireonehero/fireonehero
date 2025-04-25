@@ -29,9 +29,9 @@ Languages I use:
   * WordFrequency - A Python tool that calculates word frequencies in text files. It tokenizes text, removes stopwords, and visualizes the most frequent words as a bar graph and word cloud.
   * TowerOfTrials - Tower of Trials is a text-based RPG game written in Python, where the player's character must battle a series of enemies and bosses in order to progress through the Tower of Trials. The game emphasizes strategic decision-making, with each player action influencing the course of the battle.
 
-### 💡 Goals for 2024
+### 💡 Goals for 2025
 
-  * My main goal for 2024 is to get hired as a software developer at a decent sized company.
+  * My main goal for 2025 is to get hired as a software developer at a decent sized company.
   * My sub goal is to become fluent in 3 more programming languages as well as make a better portfolio site.
 
 ### 🌴 Fun facts
