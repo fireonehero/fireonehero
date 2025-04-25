@@ -43,7 +43,7 @@ Languages I use:
 
 ### ☕ Get in touch
 
-  * Email: fireonehero@gmail.com 
+  * Email: fireonehero@pm.me
 
 #### Special Thanks
 
