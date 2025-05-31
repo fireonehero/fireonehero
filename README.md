@@ -7,7 +7,7 @@ I'm a software engineer proficient in Java and Python, but also well-versed in H
 ### ⚡ Technologies
 
   * Front-end development using HTML, CSS, JavaScript
-  * Backend development using Java, Python
+  * Backend development using Python
   * Working knowledge of PyQt5 library
 
 Languages I use:   
@@ -17,6 +17,7 @@ Languages I use:
 ### ✔️ I'm currently learning
 
   * C Development
+  * C++ Development
   * ImGui
   * OpenGL
   * Django
